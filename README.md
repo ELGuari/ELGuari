@@ -9,7 +9,7 @@ Data Science and Artificial Intelligence</a> and in<a href="https://www.oracle.c
 
 - 🌱 I’m currently learning **JavaScript, Angular, Node.js, Java, SpringBoot, MySQL**
 
-- 📄 All My Projects [On GitHub](https://github.com/ELGuari)
+- 📄 All My Projects [On GitHub](https://github.com/ELGuari?tab=repositories)
 
 - 💡 I am very interested in **Data Science and Artificial Intelligence**
 
