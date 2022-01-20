@@ -5,7 +5,7 @@ Data Science and Artificial Intelligence</a> and in<a href="https://www.oracle.c
 
 <br></br>
 
-- 🚀 My last project is [text encrypter/decrypter](elguari.github.io/challengeone-1/)
+- 🚀 My last project is [text encrypter/decrypter](https://github.com/ELGuari/ChallengeONE-1)
 
 - 🌱 I’m currently learning **JavaScript, Angular, Node.js, Java, SpringBoot, MySQL**
 
